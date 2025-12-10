@@ -8,4 +8,4 @@ Telegram Inline Like Bot PHP
 
 Demo : @inlinelike_bot
 
-https://heroku.com/deploy
+https://heroku.com/deploydjdjdj
